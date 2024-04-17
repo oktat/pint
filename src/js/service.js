@@ -1,0 +1,4 @@
+
+function getEmployees() {
+    return "Dolgozók"
+}
